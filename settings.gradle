@@ -1,0 +1,6 @@
+rootProject.name = "funnyRegion"
+include 'funny-controller'
+include 'funny-common'
+include 'funny-service'
+include 'funny-repository'
+

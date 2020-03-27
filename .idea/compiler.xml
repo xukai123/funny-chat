@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="funnyRe.funny-common.main" target="1.8" />
+      <module name="funnyRe.funny-common.test" target="1.8" />
+      <module name="funnyRe.funny-controller.main" target="1.8" />
+      <module name="funnyRe.funny-controller.test" target="1.8" />
+      <module name="funnyRe.funny-repository.main" target="1.8" />
+      <module name="funnyRe.funny-repository.test" target="1.8" />
+      <module name="funnyRe.funny-service.main" target="1.8" />
+      <module name="funnyRe.funny-service.test" target="1.8" />
+      <module name="funnyRe.main" target="1.8" />
+      <module name="funnyRe.test" target="1.8" />
+      <module name="funnyRegion.controller.main" target="1.8" />
+      <module name="funnyRegion.controller.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
